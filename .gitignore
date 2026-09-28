@@ -1,0 +1,5 @@
+# Never commit boards or exports: they hold private content and photo locations
+*.postit
+Post-it Archive/
+.DS_Store
+__pycache__/
